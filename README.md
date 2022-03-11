@@ -15,10 +15,13 @@ Below are steps for using the interactive filters to search by Date, City, State
   Example of **Filter Search** with entry into one search filter:
   Delivers all table data that qualify to all search criteria:
   ![](static/images/Steps_to_Search_Any.png)
- 
-There is a description of how to perform a search, with images. (4 pt)
+
 # Summary:
-1.  The summary addresses one drawback of this webpage (2 pt)
-2.  Additional recommendations:
-    - 1. 
-    - 2. for further development (4 pt)
+1.  One drawback is limited source data - based on sightings from 2010.  
+2.  Future enhancements to the website might include expanded data:
+    - Larger data set to include 2010 - current date
+    - Sighting outcomes
+      1.  Was an investigation conducted Yes/No
+      2.  Was the signing a confirmed UFO Yes/No
+      3.  If Yes, What were the outcomes
+       
