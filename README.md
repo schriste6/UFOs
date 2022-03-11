@@ -8,10 +8,12 @@ Below are steps for using the interactive filters to search by Date, City, State
 1. All **Filter Search** criteria start with the default set to all (data).    
 2. Any or all of the **Filter Search** criteria can be used.  
 3. Using the full table of data, scroll to view available search criteria within the respective headings/columns.   
-4. Click in the respective search cell and type search criteria - type over the text "default set to all".  
- Example of **Filter Search** with all filtered:
+4. Click in the respective filter search cell and type search criteria - type over the text "default set to all". Select "Tab" or "Enter" to run the serach.
+ Example of **Filter Search** with entry into all serach filters:
+ Delivers all table data that qualify to all search criteria:
  ![](static/images/Steps_to_Search_All.png)
-  Example of **Filter Search** with one filtered:
+  Example of **Filter Search** with entry into one search filter:
+  Delivers all table data that qualify to all search criteria:
   ![](static/images/Steps_to_Search_Any.png)
  
 There is a description of how to perform a search, with images. (4 pt)
