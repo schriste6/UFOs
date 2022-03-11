@@ -13,7 +13,7 @@ Below are steps for using the interactive filters to search by Date, City, State
  ![](static/images/Steps_to_Search_All.png)
  
  Example of **Filter Search** with one filtered:
-  ![](static/images/Steps_to_Search.png)
+  ![](static/images/Steps_to_Search_Any.png)
  
 There is a description of how to perform a search, with images. (4 pt)
 # Summary:
